@@ -1,7 +1,7 @@
 {
   "name": "@jitsi/react-native-olm",
   "version": "0.1.0",
-  "description": "How to build a jsi module example library",
+  "description": "React Native bindings for libolm using JSI",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
   "types": "lib/typescript/index.d.ts",
